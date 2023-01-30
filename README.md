@@ -1,7 +1,9 @@
+
 WPFCustomMessageBox
 =====================
 
 *WPFCustomMessageBox* is a WPF clone of the native Windows/.NET MessageBox with extra features like custom button text and automatically closing messages.
+Now with .net support through .net standard 2.1
 
 ![WPFCustomMessageBox example screenshot](http://i.stack.imgur.com/AQgEj.png)
 
@@ -11,7 +13,7 @@ The WPFCustomMessageBox message boxes return [standard .NET MessageBoxResults](h
 
 ## Downloading and Installing ##
 
-[WPFCustomMessageBox is available via NuGet](https://www.nuget.org/packages/WPFCustomMessageBox.thabse/).
+[WPFCustomMessageBox is available via NuGet](https://www.nuget.org/packages/WPFCustomMessageBox.joly0/).
 
 ## Usage ##
 
@@ -93,6 +95,8 @@ CustomMessageBox.RemoveTitleBarIcon = false;
 ## License ##
 
 **The MIT License**
+
+Copyright (c) 2023 Joly0
 
 Copyright (c) 2021 Thomas Absenger
 
