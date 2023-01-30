@@ -4,11 +4,10 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
+using System;
+
 namespace WPFCustomMessageBox
 {
-    using System;
-    using System.Windows;
-
     /// <summary>
     /// Displays a message box.
     /// </summary>

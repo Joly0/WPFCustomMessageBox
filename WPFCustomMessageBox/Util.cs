@@ -4,16 +4,13 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
+using System;
+using System.Drawing;
+using System.Runtime.InteropServices;
+using Xamarin.Forms;
+
 namespace WPFCustomMessageBox
 {
-    using System;
-    using System.Drawing;
-    using System.Runtime.InteropServices;
-    using System.Windows;
-    using System.Windows.Interop;
-    using System.Windows.Media;
-    using System.Windows.Media.Imaging;
-
     /// <summary>
     /// TODO: Update summary.
     /// </summary>
